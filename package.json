@@ -1,0 +1,23 @@
+{
+  "name": "serverless-ding",
+  "version": "1.0.0",
+  "description": "Serverless plugin to alert you when deployment finishes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidgonuts/serverless-ding.git"
+  },
+  "keywords": [
+    "serverless",
+    "alert"
+  ],
+  "author": "Siddhartha Nutulapati",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sidgonuts/serverless-ding/issues"
+  },
+  "homepage": "https://github.com/sidgonuts/serverless-ding#readme"
+}
