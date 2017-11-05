@@ -1,6 +1,6 @@
 {
   "name": "serverless-ding",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Serverless plugin to alert you when deployment finishes",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/sidgonuts/serverless-ding/issues"
   },
-  "homepage": "https://github.com/sidgonuts/serverless-ding#readme"
+  "homepage": "https://github.com/sidgonuts/serverless-ding#readme",
+  "dependencies": {
+    "play-sound": "^1.1.1"
+  }
 }
