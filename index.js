@@ -17,4 +17,4 @@ class ServerlessCustomDomain {
 
 }
 
-export default ServerlessCustomDomain;
+module.exports = ServerlessCustomDomain;

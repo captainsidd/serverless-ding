@@ -14,8 +14,9 @@ Make sure you have the following installed before starting:
 
 
 ## Installing
+
+### From npm (recommended)
 ```
-# From npm (recommended)
 npm install serverless-ding --save-dev
 ```
 
