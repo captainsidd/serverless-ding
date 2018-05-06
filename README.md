@@ -1,5 +1,5 @@
 # serverless-ding
-A serverless plugin that outputs a [bell character](https://en.wikipedia.org/wiki/Bell_character) to Terminal after `sls deploy`.
+A serverless plugin that outputs a [bell character](https://en.wikipedia.org/wiki/Bell_character) to Terminal after `sls deploy`. Will only work if the audible bell in Terminal is turned on.
 
 # Why
 Because running `sls deploy` takes just long enough to go do something else and forget that you ran `sls deploy`. Figured a notification would be nice.
