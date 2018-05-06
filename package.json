@@ -1,6 +1,6 @@
 {
   "name": "serverless-ding",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Serverless plugin to alert you when deployment finishes",
   "main": "index.js",
   "scripts": {
